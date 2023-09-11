@@ -1,0 +1,13 @@
+@import "../../colors";
+
+.button {
+	padding: 5px;
+	&:hover {
+		background-color: $secondary;
+	}
+	&:disabled {
+		cursor: default;
+		background-color: gray;
+	}
+
+}

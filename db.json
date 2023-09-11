@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "admin",
+      "password": "admin",
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "login": "user",
+      "password": "user",
+      "isAdmin": false
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Воробьева Ирина Сергеевна",
+      "email": "isvorobyeva@mail.ru",
+      "phone": "89870186572"
+    }
+  ]
+}
